@@ -8,7 +8,7 @@ import {
   Link,
   Typography,
 } from "@mui/material";
-import TwitterIcon from "@mui/icons-material/Twitter";
+import XIcon from "@mui/icons-material/X";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import NoteIcon from "@mui/icons-material/EventNote";
 
@@ -16,22 +16,22 @@ const socialLinks = [
   {
     name: "Twitter",
     username: "@tenohiraniwawo",
-    url: "https://twitter.com/Tenohiraniwawo",
-    description: "説明テキスト",
-    icon: <TwitterIcon />,
+    url: "https://x.com/Tenohiraniwawo",
+    description: "手のひらに和をの公式Xです。",
+    icon: <XIcon />,
   },
   {
     name: "Instagram",
     username: "@tenohiraniwawo",
     url: "https://www.instagram.com/tenohiraniwawo/?hl=ja",
-    description: "Instagram photos and videos",
+    description: "手のひらに和をの公式Instagramです。",
     icon: <InstagramIcon />,
   },
   {
     name: "note",
     username: "@tenohirani_80",
     url: "https://note.com/tenohirani_80",
-    description: "説明テキスト",
+    description: "手のひらに和をの公式noteです。",
     icon: <NoteIcon />,
   },
 ];
