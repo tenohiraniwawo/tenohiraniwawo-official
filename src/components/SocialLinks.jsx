@@ -14,7 +14,7 @@ import NoteIcon from "@mui/icons-material/EventNote";
 
 const socialLinks = [
   {
-    name: "Twitter",
+    name: "X（旧Twitter）",
     username: "@tenohiraniwawo",
     url: "https://x.com/Tenohiraniwawo",
     description: "手のひらに和をの公式Xです。",
